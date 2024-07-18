@@ -1,0 +1,26 @@
+/*
+Elements = h1, body, button
+IDs = lab
+*/
+
+body {
+    display: block;
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+h1 {
+    font-size: xx-large;
+}
+
+button {
+    padding: 5px, 10px;
+    border: solid 3px black;
+    font-size: 2em;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+#lab {
+    font-size: 2em;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
